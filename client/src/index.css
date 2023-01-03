@@ -1,0 +1,41 @@
+body {
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: none;
+  /* color: white; */
+   width: 1200px; 
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("C:\Users\herre\Downloads\PI-DOGS-V1 VERSION FINAL SI 2 sin modules\PI-DOGS-V1 VERSION FINAL SI 2 sin modules\client\src\img\20093-perritos.png");
+  background-position: 45% 25%;
+  background-attachment:fixed ;
+
+}
+
+
+
+header{
+  max-width: 3200px;
+  border-bottom: 1px solid rgb(17, 17, 17);
+
+}
+
+section {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 10px auto;
+}
+
+main{
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 10px auto;
+}
+
